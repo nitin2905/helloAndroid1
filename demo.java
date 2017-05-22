@@ -6,4 +6,8 @@ class Demo {
     private void setAge(int age){
         System.out.println("Age");
     }
+
+    public void setDepartment(){
+        System.out.println("setDepartment");
+    }
 }
