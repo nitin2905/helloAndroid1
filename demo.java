@@ -18,4 +18,8 @@ class Demo {
     public void addCommand(){
         System.out.println("Method Created in refactoring/feature_develop1");
     }
+
+    pulic void setPLaceHolder(){
+        System.out.println();
+    }
 }
