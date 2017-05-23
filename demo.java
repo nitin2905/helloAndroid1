@@ -20,7 +20,7 @@ class Demo {
     }
 
     public void addCommandPullRequest(){
-        System.out.println("Method Created in pull_request");
+        System.out.println("Method Created in pull_request updated");
     }
 
     public setPlaceHolderForAdminstrator(){
