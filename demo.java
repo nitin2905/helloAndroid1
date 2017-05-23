@@ -23,6 +23,14 @@ class Demo {
         System.out.println("Set placeHolder for Adminstrator");
     }
 
+    public void addCommandPullRequestMore(){
+        System.out.println("Method Created in pull_request updated modify one more");
+    }
+
+    public setPlaceHolderForAdminstrator(){
+        System.out.println("Set placeHolder for Adminstrator");
+    }
+
     pulic void setPLaceHolder(){
         System.out.println();
     }
