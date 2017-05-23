@@ -19,6 +19,10 @@ class Demo {
         System.out.println("Method Created in refactoring/feature_develop1");
     }
 
+    public void addCommandPullRequestMore(){
+        System.out.println("Method Created in pull_request updated modify one more");
+    }
+
     public setPlaceHolderForAdminstrator(){
         System.out.println("Set placeHolder for Adminstrator");
     }
