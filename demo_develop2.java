@@ -19,11 +19,7 @@ class Demo {
         System.out.println("Method Created in refactoring/feature_develop1");
     }
 
-    public setPlaceHolderForAdminstrator(){
-        System.out.println("Set placeHolder for Adminstrator");
-    }
-
-    pulic void setPLaceHolder(){
-        System.out.println();
+    public void addCommand_develop(){
+        System.out.println("Method Created in refactoring/feature_develop2");
     }
 }
