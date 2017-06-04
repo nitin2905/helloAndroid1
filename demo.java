@@ -34,4 +34,8 @@ class Demo {
     pulic void setPLaceHolder(){
         System.out.println();
     }
+
+    protected void setPLaceHolder(){
+        System.out.println("Protected method created in new_branch_test_from_branch_arun_test");
+    }
 }
