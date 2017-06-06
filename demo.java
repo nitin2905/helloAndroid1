@@ -47,5 +47,7 @@ class Demo {
 
     }
 
-   remove 123 text
+    private void setNumericValues(){
+        "12345.text";
+    }
 }
