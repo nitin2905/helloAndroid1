@@ -47,7 +47,7 @@ class Demo {
 
     }
 
-    private void setNumericValues(){
+    private void setNumericValuesAndValues(){
         "12345.text";
     }
 }
