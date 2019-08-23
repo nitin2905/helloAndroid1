@@ -31,7 +31,11 @@ class Demo {
         System.out.println("Set placeHolder for Adminstrator");
     }
 
-    pulic void setPLaceHolder(){
+    public void setPLaceHolder(){
         System.out.println();
+    }
+
+    public void checkPRCommand(){
+        System.out.println("CHECK PR REQUEST")
     }
 }
